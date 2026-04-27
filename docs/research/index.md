@@ -40,6 +40,7 @@
 | [Backtest: VWAP and volume profile day trading edge](backtest_vwap_and_volume_profile_day_trading_edge_3_2.md) | 2026-04-10 | codex |
 | [backtesting a 100 percent return in 30 days realistic strategies](backtesting_a_100_percent_return_in_30_days_realistic_strate.md) | 2026-04-07 | Pro |
 | [backtesting a 100 percent return in 30 days realistic strategies](backtesting_a_100_percent_return_in_30_days_realistic_strate_3.md) | 2026-04-07 | Flash |
+| [backtesting methodology](backtesting_methodology.md) | 2026-04-27 | codex |
 | [Backtest: mean reversion overnight gap fade strategy](backtestmeanreversionovernightgapfadestrategy.md) | 2026-04-08 | Pro |
 | [combining trend following with volatility filters for max returns](combining_trend_following_with_volatility_filters_for_max_re.md) | 2026-04-07 | Pro |
 | [combining trend following with volatility filters for max returns](combining_trend_following_with_volatility_filters_for_max_re_2.md) | 2026-04-07 | Flash |
@@ -54,6 +55,7 @@
 | [earnings momentum post-earnings drift trading](earnings_momentum_post-earnings_drift_trading_2.md) | 2026-04-07 | Pro |
 | [earnings momentum post-earnings drift trading](earnings_momentum_post-earnings_drift_trading_3.md) | 2026-04-07 | Flash |
 | [earnings momentum post-earnings drift trading](earnings_momentum_post-earnings_drift_trading_4.md) | 2026-04-09 | Pro |
+| [entry and exit techniques](entry_exit_techniques.md) | 2026-04-27 | codex |
 | [gap trading strategies opening range breakout intraday](gap_trading_strategies_opening_range_breakout_intraday.md) | 2026-04-07 | Pro |
 | [gap trading strategies opening range breakout intraday](gap_trading_strategies_opening_range_breakout_intraday_2.md) | 2026-04-07 | Flash |
 | [gap trading strategies opening range breakout intraday](gap_trading_strategies_opening_range_breakout_intraday_3.md) | 2026-04-09 | Flash |
@@ -75,6 +77,7 @@
 | [leveraged ETF momentum rotation TQQQ SOXL weekly rebalance](leveraged_etf_momentum_rotation_tqqq_soxl_weekly_rebalance_2.md) | 2026-04-07 | Pro |
 | [leveraged ETF momentum rotation TQQQ SOXL weekly rebalance](leveraged_etf_momentum_rotation_tqqq_soxl_weekly_rebalance_3.md) | 2026-04-07 | Flash |
 | [leveraged ETF momentum rotation TQQQ SOXL weekly rebalance](leveraged_etf_momentum_rotation_tqqq_soxl_weekly_rebalance_4.md) | 2026-04-09 | Pro |
+| [market conditions filter](market_conditions_filter.md) | 2026-04-27 | codex |
 | [mean reversion overnight gap fade strategy](mean_reversion_overnight_gap_fade_strategy.md) | 2026-04-07 | Pro |
 | [mean reversion overnight gap fade strategy](mean_reversion_overnight_gap_fade_strategy_2.md) | 2026-04-07 | Pro |
 | [mean reversion overnight gap fade strategy](mean_reversion_overnight_gap_fade_strategy_3.md) | 2026-04-07 | Flash |
@@ -87,7 +90,9 @@
 | [order flow analysis tape reading for short term trades](order_flow_analysis_tape_reading_for_short_term_trades_2.md) | 2026-04-07 | Flash |
 | [order flow analysis tape reading for short term trades](order_flow_analysis_tape_reading_for_short_term_trades_3.md) | 2026-04-07 | Flash |
 | [pairs trading statistical arbitrage methods](pairs_trading_statistical_arbitrage_methods.md) | 2026-04-07 |  |
+| [position sizing](position_sizing.md) | 2026-04-27 | codex |
 | [quantitative risk management position sizing](quantitative_risk_management_position_sizing.md) | 2026-04-07 | Pro |
+| [risk management rules](risk_management_rules.md) | 2026-04-27 | codex |
 | [risk of ruin calculations for aggressive small accounts](risk_of_ruin_calculations_for_aggressive_small_accounts.md) | 2026-04-07 | Pro |
 | [risk of ruin calculations for aggressive small accounts](risk_of_ruin_calculations_for_aggressive_small_accounts_2.md) | 2026-04-07 | Flash |
 | [risk of ruin calculations for aggressive small accounts](risk_of_ruin_calculations_for_aggressive_small_accounts_3.md) | 2026-04-07 | Flash |
@@ -102,9 +107,11 @@
 | [statistical edge in short term mean reversion SPY QQQ](statistical_edge_in_short_term_mean_reversion_spy_qqq.md) | 2026-04-07 | Pro |
 | [statistical edge in short term mean reversion SPY QQQ](statistical_edge_in_short_term_mean_reversion_spy_qqq_2.md) | 2026-04-07 | Flash |
 | [statistical edge in short term mean reversion SPY QQQ](statistical_edge_in_short_term_mean_reversion_spy_qqq_3.md) | 2026-04-07 | Flash |
+| [stop loss strategies](stop_loss_strategies.md) | 2026-04-27 | codex |
 | [swing trading with RSI divergence 3-5 day holds](swing_trading_with_rsi_divergence_3-5_day_holds.md) | 2026-04-07 | Pro |
 | [swing trading with RSI divergence 3-5 day holds - Deeper Dive](swing_trading_with_rsi_divergence_3-5_day_holds_2.md) | 2026-04-07 | Pro |
 | [swing trading with RSI divergence 3-5 day holds](swing_trading_with_rsi_divergence_3-5_day_holds_3.md) | 2026-04-09 | Flash |
+| [technical indicators guide](technical_indicators_guide.md) | 2026-04-27 | codex |
 | [volatility breakout strategies](volatility_breakout_strategies.md) | 2026-04-07 |  |
 | [VWAP anchored to earnings events strategy](vwap_anchored_to_earnings_events_strategy.md) | 2026-04-07 | Pro |
 | [VWAP anchored to earnings events strategy](vwap_anchored_to_earnings_events_strategy_2.md) | 2026-04-09 | Pro |

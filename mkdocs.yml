@@ -73,6 +73,7 @@ nav:
   - Backtesting A 100 Percent Return In 30 Days Realistic Strate: research/backtesting_a_100_percent_return_in_30_days_realistic_strate.md
   - Backtesting A 100 Percent Return In 30 Days Realistic Strate 2: research/backtesting_a_100_percent_return_in_30_days_realistic_strate_2.md
   - Backtesting A 100 Percent Return In 30 Days Realistic Strate 3: research/backtesting_a_100_percent_return_in_30_days_realistic_strate_3.md
+  - Backtesting Methodology: research/backtesting_methodology.md
   - Backtestmeanreversionovernightgapfadestrategy: research/backtestmeanreversionovernightgapfadestrategy.md
   - Combining Trend Following With Volatility Filters For Max Re: research/combining_trend_following_with_volatility_filters_for_max_re.md
   - Combining Trend Following With Volatility Filters For Max Re 2: research/combining_trend_following_with_volatility_filters_for_max_re_2.md
@@ -87,6 +88,7 @@ nav:
   - Earnings Momentum Post-Earnings Drift Trading 2: research/earnings_momentum_post-earnings_drift_trading_2.md
   - Earnings Momentum Post-Earnings Drift Trading 3: research/earnings_momentum_post-earnings_drift_trading_3.md
   - Earnings Momentum Post-Earnings Drift Trading 4: research/earnings_momentum_post-earnings_drift_trading_4.md
+  - Entry Exit Techniques: research/entry_exit_techniques.md
   - Gap Trading Strategies Opening Range Breakout Intraday: research/gap_trading_strategies_opening_range_breakout_intraday.md
   - Gap Trading Strategies Opening Range Breakout Intraday 2: research/gap_trading_strategies_opening_range_breakout_intraday_2.md
   - Gap Trading Strategies Opening Range Breakout Intraday 3: research/gap_trading_strategies_opening_range_breakout_intraday_3.md
@@ -109,6 +111,7 @@ nav:
   - Leveraged Etf Momentum Rotation Tqqq Soxl Weekly Rebalance 2: research/leveraged_etf_momentum_rotation_tqqq_soxl_weekly_rebalance_2.md
   - Leveraged Etf Momentum Rotation Tqqq Soxl Weekly Rebalance 3: research/leveraged_etf_momentum_rotation_tqqq_soxl_weekly_rebalance_3.md
   - Leveraged Etf Momentum Rotation Tqqq Soxl Weekly Rebalance 4: research/leveraged_etf_momentum_rotation_tqqq_soxl_weekly_rebalance_4.md
+  - Market Conditions Filter: research/market_conditions_filter.md
   - Mean Reversion Overnight Gap Fade Strategy: research/mean_reversion_overnight_gap_fade_strategy.md
   - Mean Reversion Overnight Gap Fade Strategy 2: research/mean_reversion_overnight_gap_fade_strategy_2.md
   - Mean Reversion Overnight Gap Fade Strategy 3: research/mean_reversion_overnight_gap_fade_strategy_3.md
@@ -122,7 +125,9 @@ nav:
   - Order Flow Analysis Tape Reading For Short Term Trades 2: research/order_flow_analysis_tape_reading_for_short_term_trades_2.md
   - Order Flow Analysis Tape Reading For Short Term Trades 3: research/order_flow_analysis_tape_reading_for_short_term_trades_3.md
   - Pairs Trading Statistical Arbitrage Methods: research/pairs_trading_statistical_arbitrage_methods.md
+  - Position Sizing: research/position_sizing.md
   - Quantitative Risk Management Position Sizing: research/quantitative_risk_management_position_sizing.md
+  - Risk Management Rules: research/risk_management_rules.md
   - Risk Of Ruin Calculations For Aggressive Small Accounts: research/risk_of_ruin_calculations_for_aggressive_small_accounts.md
   - Risk Of Ruin Calculations For Aggressive Small Accounts 2: research/risk_of_ruin_calculations_for_aggressive_small_accounts_2.md
   - Risk Of Ruin Calculations For Aggressive Small Accounts 3: research/risk_of_ruin_calculations_for_aggressive_small_accounts_3.md
@@ -137,9 +142,11 @@ nav:
   - Statistical Edge In Short Term Mean Reversion Spy Qqq: research/statistical_edge_in_short_term_mean_reversion_spy_qqq.md
   - Statistical Edge In Short Term Mean Reversion Spy Qqq 2: research/statistical_edge_in_short_term_mean_reversion_spy_qqq_2.md
   - Statistical Edge In Short Term Mean Reversion Spy Qqq 3: research/statistical_edge_in_short_term_mean_reversion_spy_qqq_3.md
+  - Stop Loss Strategies: research/stop_loss_strategies.md
   - Swing Trading With Rsi Divergence 3-5 Day Holds: research/swing_trading_with_rsi_divergence_3-5_day_holds.md
   - Swing Trading With Rsi Divergence 3-5 Day Holds 2: research/swing_trading_with_rsi_divergence_3-5_day_holds_2.md
   - Swing Trading With Rsi Divergence 3-5 Day Holds 3: research/swing_trading_with_rsi_divergence_3-5_day_holds_3.md
+  - Technical Indicators Guide: research/technical_indicators_guide.md
   - Volatility Breakout Strategies: research/volatility_breakout_strategies.md
   - Vwap Anchored To Earnings Events Strategy: research/vwap_anchored_to_earnings_events_strategy.md
   - Vwap Anchored To Earnings Events Strategy 2: research/vwap_anchored_to_earnings_events_strategy_2.md

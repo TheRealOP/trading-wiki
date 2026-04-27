@@ -130,29 +130,33 @@ def sync_report():
 
 def rebuild_nav():
     research_files = sorted((DOCS / "research").glob("*.md"))
-    research_nav = ["  - Overview: research/index.md"] + [
-        f"  - {f.stem.replace('_', ' ').title()}: research/{f.name}"
+    research_items = ["    - Overview: research/index.md"] + [
+        f"    - {f.stem.replace('_', ' ').title()}: research/{f.name}"
         for f in research_files if f.name != "index.md"
     ]
 
     report_files = sorted((DOCS / "reports").glob("[0-9]*.md"), reverse=True)
-    reports_nav = ["  - Latest: reports/index.md"] + [
-        f"  - {f.stem}: reports/{f.name}"
+    report_items = ["    - Latest: reports/index.md"] + [
+        f"    - {f.stem}: reports/{f.name}"
         for f in report_files[:10]
     ]
 
+    nav_block = "nav:\n"
+    nav_block += "  - Home: index.md\n"
+    nav_block += "  - Research:\n"
+    nav_block += "\n".join(research_items) + "\n"
+    nav_block += "  - Strategies:\n"
+    nav_block += "    - Overview: strategies/index.md\n"
+    nav_block += "  - Trades:\n"
+    nav_block += "    - Overview: trades/index.md\n"
+    nav_block += "  - Reports:\n"
+    nav_block += "\n".join(report_items) + "\n"
+
+    import re
     mkdocs = WIKI_ROOT / "mkdocs.yml"
     text = mkdocs.read_text()
-    nav_block = "\nnav:\n  - Home: index.md\n  - Research:\n"
-    nav_block += "\n".join(research_nav) + "\n"
-    nav_block += "  - Strategies:\n    - Overview: strategies/index.md\n"
-    nav_block += "  - Trades:\n    - Overview: trades/index.md\n"
-    nav_block += "  - Reports:\n"
-    nav_block += "\n".join(reports_nav) + "\n"
-
-    # Replace nav section
-    import re
-    text = re.sub(r"\nnav:.*", nav_block, text, flags=re.DOTALL)
+    # Replace from nav: to end-of-file; re-append the rebuilt block
+    text = re.sub(r"\nnav:.*", "", text, flags=re.DOTALL).rstrip() + "\n\n" + nav_block
     mkdocs.write_text(text)
     print("  nav: rebuilt")
 

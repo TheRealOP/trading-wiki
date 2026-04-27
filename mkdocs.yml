@@ -34,6 +34,125 @@ nav:
   - Home: index.md
   - Research:
     - Overview: research/index.md
+    - Advances In Financial Machine Learning By Marcos Lopez De Pr: research/advances_in_financial_machine_learning_by_marcos_lopez_de_pr.md
+    - Advances In Financial Machine Learning By Marcos Lopez De Pr 2: research/advances_in_financial_machine_learning_by_marcos_lopez_de_pr_2.md
+    - Algorithmic Trading With Moving Averages: research/algorithmic_trading_with_moving_averages.md
+    - Alpaca Api Algorithmic Order Types Bracket Orders Trailing S: research/alpaca_api_algorithmic_order_types_bracket_orders_trailing_s.md
+    - Alpaca Api Algorithmic Order Types Bracket Orders Trailing S 2: research/alpaca_api_algorithmic_order_types_bracket_orders_trailing_s_2.md
+    - Alpaca Api Algorithmic Order Types Bracket Orders Trailing S 3: research/alpaca_api_algorithmic_order_types_bracket_orders_trailing_s_3.md
+    - Alpaca Api Algorithmic Order Types Bracket Orders Trailing S 4: research/alpaca_api_algorithmic_order_types_bracket_orders_trailing_s_4.md
+    - Backtest Earnings Momentum Post-Earnings Drift Trading: research/backtest_earnings_momentum_post-earnings_drift_trading.md
+    - Backtest Earnings Momentum Post-Earnings Drift Trading 2: research/backtest_earnings_momentum_post-earnings_drift_trading_2.md
+    - Backtest Gap Trading Strategies Opening Range Breakout: research/backtest_gap_trading_strategies_opening_range_breakout.md
+    - Backtest Gap Trading Strategies Opening Range Breakout 2: research/backtest_gap_trading_strategies_opening_range_breakout_2.md
+    - Backtest High Probability Setups Combining Multiple In: research/backtest_high_probability_setups_combining_multiple_in.md
+    - Backtest High Probability Setups Combining Multiple In 2: research/backtest_high_probability_setups_combining_multiple_in_2.md
+    - Backtest High Probability Setups Combining Multiple In 3: research/backtest_high_probability_setups_combining_multiple_in_3.md
+    - Backtest Highest Sharpe Ratio Strategies For Accounts: research/backtest_highest_sharpe_ratio_strategies_for_accounts.md
+    - Backtest Highest Sharpe Ratio Strategies For Accounts 2: research/backtest_highest_sharpe_ratio_strategies_for_accounts_2.md
+    - Backtest Leveraged Etf Momentum Rotation Tqqq Soxl Wee: research/backtest_leveraged_etf_momentum_rotation_tqqq_soxl_wee.md
+    - Backtest Leveraged Etf Momentum Rotation Tqqq Soxl Wee 2: research/backtest_leveraged_etf_momentum_rotation_tqqq_soxl_wee_2.md
+    - Backtest Leveraged Etf Momentum Rotation Tqqq Soxl Wee 3: research/backtest_leveraged_etf_momentum_rotation_tqqq_soxl_wee_3.md
+    - Backtest Mean Reversion Overnight Gap Fade Strategy 4: research/backtest_mean_reversion_overnight_gap_fade_strategy_4.md
+    - Backtest Options Selling Strategies For Small Accounts: research/backtest_options_selling_strategies_for_small_accounts.md
+    - Backtest Options Selling Strategies For Small Accounts 2: research/backtest_options_selling_strategies_for_small_accounts_2.md
+    - Backtest Options Selling Strategies For Small Accounts 3: research/backtest_options_selling_strategies_for_small_accounts_3.md
+    - Backtest Order Flow Analysis Tape Reading For Short Te 2: research/backtest_order_flow_analysis_tape_reading_for_short_te_2.md
+    - Backtest Scalping High Volatility Stocks With Tight St: research/backtest_scalping_high_volatility_stocks_with_tight_st.md
+    - Backtest Sector Rotation Strategy Using Relative Stren: research/backtest_sector_rotation_strategy_using_relative_stren.md
+    - Backtest Sector Rotation Strategy Using Relative Stren 2: research/backtest_sector_rotation_strategy_using_relative_stren_2.md
+    - Backtest Sector Rotation Strategy Using Relative Stren 3: research/backtest_sector_rotation_strategy_using_relative_stren_3.md
+    - Backtest Statistical Edge In Short Term Mean Reversion 2: research/backtest_statistical_edge_in_short_term_mean_reversion_2.md
+    - Backtest Statistical Edge In Short Term Mean Reversion 3: research/backtest_statistical_edge_in_short_term_mean_reversion_3.md
+    - Backtest Swing Trading With Rsi Divergence 3-5 Day Hol: research/backtest_swing_trading_with_rsi_divergence_3-5_day_hol.md
+    - Backtest Swing Trading With Rsi Divergence 3-5 Day Hol 2: research/backtest_swing_trading_with_rsi_divergence_3-5_day_hol_2.md
+    - Backtest Vwap And Volume Profile Day Trading Edge 2: research/backtest_vwap_and_volume_profile_day_trading_edge_2.md
+    - Backtest Vwap And Volume Profile Day Trading Edge 2 2: research/backtest_vwap_and_volume_profile_day_trading_edge_2_2.md
+    - Backtest Vwap And Volume Profile Day Trading Edge 3: research/backtest_vwap_and_volume_profile_day_trading_edge_3.md
+    - Backtest Vwap And Volume Profile Day Trading Edge 3 2: research/backtest_vwap_and_volume_profile_day_trading_edge_3_2.md
+    - Backtesting A 100 Percent Return In 30 Days Realistic Strate: research/backtesting_a_100_percent_return_in_30_days_realistic_strate.md
+    - Backtesting A 100 Percent Return In 30 Days Realistic Strate 2: research/backtesting_a_100_percent_return_in_30_days_realistic_strate_2.md
+    - Backtesting A 100 Percent Return In 30 Days Realistic Strate 3: research/backtesting_a_100_percent_return_in_30_days_realistic_strate_3.md
+    - Backtesting Methodology: research/backtesting_methodology.md
+    - Backtestmeanreversionovernightgapfadestrategy: research/backtestmeanreversionovernightgapfadestrategy.md
+    - Combining Trend Following With Volatility Filters For Max Re: research/combining_trend_following_with_volatility_filters_for_max_re.md
+    - Combining Trend Following With Volatility Filters For Max Re 2: research/combining_trend_following_with_volatility_filters_for_max_re_2.md
+    - Combining Trend Following With Volatility Filters For Max Re 3: research/combining_trend_following_with_volatility_filters_for_max_re_3.md
+    - Compounding Daily Returns Math Behind Doubling A Small Accou: research/compounding_daily_returns_math_behind_doubling_a_small_accou.md
+    - Compounding Daily Returns Math Behind Doubling A Small Accou 2: research/compounding_daily_returns_math_behind_doubling_a_small_accou_2.md
+    - Compounding Daily Returns Math Behind Doubling A Small Accou 3: research/compounding_daily_returns_math_behind_doubling_a_small_accou_3.md
+    - Crypto Momentum Trading Btc Eth 4H Timeframe: research/crypto_momentum_trading_btc_eth_4h_timeframe.md
+    - Crypto Momentum Trading Btc Eth 4H Timeframe 2: research/crypto_momentum_trading_btc_eth_4h_timeframe_2.md
+    - Crypto Momentum Trading Btc Eth 4H Timeframe 3: research/crypto_momentum_trading_btc_eth_4h_timeframe_3.md
+    - Earnings Momentum Post-Earnings Drift Trading: research/earnings_momentum_post-earnings_drift_trading.md
+    - Earnings Momentum Post-Earnings Drift Trading 2: research/earnings_momentum_post-earnings_drift_trading_2.md
+    - Earnings Momentum Post-Earnings Drift Trading 3: research/earnings_momentum_post-earnings_drift_trading_3.md
+    - Earnings Momentum Post-Earnings Drift Trading 4: research/earnings_momentum_post-earnings_drift_trading_4.md
+    - Entry Exit Techniques: research/entry_exit_techniques.md
+    - Gap Trading Strategies Opening Range Breakout Intraday: research/gap_trading_strategies_opening_range_breakout_intraday.md
+    - Gap Trading Strategies Opening Range Breakout Intraday 2: research/gap_trading_strategies_opening_range_breakout_intraday_2.md
+    - Gap Trading Strategies Opening Range Breakout Intraday 3: research/gap_trading_strategies_opening_range_breakout_intraday_3.md
+    - High Probability Setups Combining Multiple Indicators Rsi Ma: research/high_probability_setups_combining_multiple_indicators_rsi_ma.md
+    - High Probability Setups Combining Multiple Indicators Rsi Ma 2: research/high_probability_setups_combining_multiple_indicators_rsi_ma_2.md
+    - High Probability Setups Combining Multiple Indicators Rsi Ma 3: research/high_probability_setups_combining_multiple_indicators_rsi_ma_3.md
+    - High Probability Setups Combining Multiple Indicators Rsi Ma 4: research/high_probability_setups_combining_multiple_indicators_rsi_ma_4.md
+    - Highest Sharpe Ratio Strategies For Accounts Under 1000 Doll: research/highest_sharpe_ratio_strategies_for_accounts_under_1000_doll.md
+    - Highest Sharpe Ratio Strategies For Accounts Under 1000 Doll 2: research/highest_sharpe_ratio_strategies_for_accounts_under_1000_doll_2.md
+    - Highest Sharpe Ratio Strategies For Accounts Under 1000 Doll 3: research/highest_sharpe_ratio_strategies_for_accounts_under_1000_doll_3.md
+    - Httpsarxivorgabs12345678: research/httpsarxivorgabs12345678.md
+    - Httpsarxivorgabs12345678 2: research/httpsarxivorgabs12345678_2.md
+    - Httpsresourcesanthropiccomhubfsthe-Complete-Guide-To-Buildin: research/httpsresourcesanthropiccomhubfsthe-complete-guide-to-buildin.md
+    - Httpswwwyoutubecomwatchv: research/httpswwwyoutubecomwatchv.md
+    - Httpswwwyoutubecomwatchv 2: research/httpswwwyoutubecomwatchv_2.md
+    - Kelly Criterion Optimal Bet Sizing For Small Portfolios: research/kelly_criterion_optimal_bet_sizing_for_small_portfolios.md
+    - Kelly Criterion Optimal Bet Sizing For Small Portfolios 2: research/kelly_criterion_optimal_bet_sizing_for_small_portfolios_2.md
+    - Kelly Criterion Optimal Bet Sizing For Small Portfolios 3: research/kelly_criterion_optimal_bet_sizing_for_small_portfolios_3.md
+    - Leveraged Etf Momentum Rotation Tqqq Soxl Weekly Rebalance: research/leveraged_etf_momentum_rotation_tqqq_soxl_weekly_rebalance.md
+    - Leveraged Etf Momentum Rotation Tqqq Soxl Weekly Rebalance 2: research/leveraged_etf_momentum_rotation_tqqq_soxl_weekly_rebalance_2.md
+    - Leveraged Etf Momentum Rotation Tqqq Soxl Weekly Rebalance 3: research/leveraged_etf_momentum_rotation_tqqq_soxl_weekly_rebalance_3.md
+    - Leveraged Etf Momentum Rotation Tqqq Soxl Weekly Rebalance 4: research/leveraged_etf_momentum_rotation_tqqq_soxl_weekly_rebalance_4.md
+    - Market Conditions Filter: research/market_conditions_filter.md
+    - Mean Reversion Overnight Gap Fade Strategy: research/mean_reversion_overnight_gap_fade_strategy.md
+    - Mean Reversion Overnight Gap Fade Strategy 2: research/mean_reversion_overnight_gap_fade_strategy_2.md
+    - Mean Reversion Overnight Gap Fade Strategy 3: research/mean_reversion_overnight_gap_fade_strategy_3.md
+    - Mean Reversion Overnight Gap Fade Strategy 4: research/mean_reversion_overnight_gap_fade_strategy_4.md
+    - Mean Reversion Strategies Equities: research/mean_reversion_strategies_equities.md
+    - Momentum Trading Strategies For Small Accounts: research/momentum_trading_strategies_for_small_accounts.md
+    - Options Selling Strategies For Small Accounts Covered Calls : research/options_selling_strategies_for_small_accounts_covered_calls_.md
+    - Options Selling Strategies For Small Accounts Covered Calls  2: research/options_selling_strategies_for_small_accounts_covered_calls__2.md
+    - Options Selling Strategies For Small Accounts Covered Calls  3: research/options_selling_strategies_for_small_accounts_covered_calls__3.md
+    - Order Flow Analysis Tape Reading For Short Term Trades: research/order_flow_analysis_tape_reading_for_short_term_trades.md
+    - Order Flow Analysis Tape Reading For Short Term Trades 2: research/order_flow_analysis_tape_reading_for_short_term_trades_2.md
+    - Order Flow Analysis Tape Reading For Short Term Trades 3: research/order_flow_analysis_tape_reading_for_short_term_trades_3.md
+    - Pairs Trading Statistical Arbitrage Methods: research/pairs_trading_statistical_arbitrage_methods.md
+    - Position Sizing: research/position_sizing.md
+    - Quantitative Risk Management Position Sizing: research/quantitative_risk_management_position_sizing.md
+    - Risk Management Rules: research/risk_management_rules.md
+    - Risk Of Ruin Calculations For Aggressive Small Accounts: research/risk_of_ruin_calculations_for_aggressive_small_accounts.md
+    - Risk Of Ruin Calculations For Aggressive Small Accounts 2: research/risk_of_ruin_calculations_for_aggressive_small_accounts_2.md
+    - Risk Of Ruin Calculations For Aggressive Small Accounts 3: research/risk_of_ruin_calculations_for_aggressive_small_accounts_3.md
+    - Scalping High Volatility Stocks With Tight Stop Losses: research/scalping_high_volatility_stocks_with_tight_stop_losses.md
+    - Scalping High Volatility Stocks With Tight Stop Losses 2: research/scalping_high_volatility_stocks_with_tight_stop_losses_2.md
+    - Scalping High Volatility Stocks With Tight Stop Losses 3: research/scalping_high_volatility_stocks_with_tight_stop_losses_3.md
+    - Scalping High Volatility Stocks With Tight Stop Losses 4: research/scalping_high_volatility_stocks_with_tight_stop_losses_4.md
+    - Sector Rotation Strategy Using Relative Strength: research/sector_rotation_strategy_using_relative_strength.md
+    - Sector Rotation Strategy Using Relative Strength 2: research/sector_rotation_strategy_using_relative_strength_2.md
+    - Sector Rotation Strategy Using Relative Strength 3: research/sector_rotation_strategy_using_relative_strength_3.md
+    - Sector Rotation Strategy Using Relative Strength 4: research/sector_rotation_strategy_using_relative_strength_4.md
+    - Statistical Edge In Short Term Mean Reversion Spy Qqq: research/statistical_edge_in_short_term_mean_reversion_spy_qqq.md
+    - Statistical Edge In Short Term Mean Reversion Spy Qqq 2: research/statistical_edge_in_short_term_mean_reversion_spy_qqq_2.md
+    - Statistical Edge In Short Term Mean Reversion Spy Qqq 3: research/statistical_edge_in_short_term_mean_reversion_spy_qqq_3.md
+    - Stop Loss Strategies: research/stop_loss_strategies.md
+    - Swing Trading With Rsi Divergence 3-5 Day Holds: research/swing_trading_with_rsi_divergence_3-5_day_holds.md
+    - Swing Trading With Rsi Divergence 3-5 Day Holds 2: research/swing_trading_with_rsi_divergence_3-5_day_holds_2.md
+    - Swing Trading With Rsi Divergence 3-5 Day Holds 3: research/swing_trading_with_rsi_divergence_3-5_day_holds_3.md
+    - Technical Indicators Guide: research/technical_indicators_guide.md
+    - Volatility Breakout Strategies: research/volatility_breakout_strategies.md
+    - Vwap Anchored To Earnings Events Strategy: research/vwap_anchored_to_earnings_events_strategy.md
+    - Vwap Anchored To Earnings Events Strategy 2: research/vwap_anchored_to_earnings_events_strategy_2.md
+    - Vwap And Volume Profile Day Trading Edge: research/vwap_and_volume_profile_day_trading_edge.md
+    - Vwap And Volume Profile Day Trading Edge 2: research/vwap_and_volume_profile_day_trading_edge_2.md
+    - Vwap And Volume Profile Day Trading Edge 3: research/vwap_and_volume_profile_day_trading_edge_3.md
   - Strategies:
     - Overview: strategies/index.md
   - Trades:

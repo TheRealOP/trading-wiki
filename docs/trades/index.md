@@ -1,3 +1,7 @@
 # Trade Log
 
-Recent trades synced from the paper trading system.
+_Last synced: 2026-04-27 12:59_
+
+
+| Time | Strategy | Symbol | Side | Qty | Price | PnL |
+|------|----------|--------|------|-----|-------|-----|

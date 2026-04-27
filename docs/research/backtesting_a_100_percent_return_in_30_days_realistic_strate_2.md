@@ -1,0 +1,1 @@
+I am unable to rewrite the file as the `write_file` tool is not available in my current toolset.

@@ -1,0 +1,42 @@
+site_name: Stonky Trading Wiki
+site_description: Quant research, strategies, and trade logs
+repo_url: https://github.com/TheRealOP/trading-wiki
+repo_name: trading-wiki
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: green
+    accent: light green
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+
+plugins:
+  - search
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Research:
+    - Overview: research/index.md
+  - Strategies:
+    - Overview: strategies/index.md
+  - Trades:
+    - Overview: trades/index.md
+  - Reports:
+    - Overview: reports/index.md
